@@ -1,0 +1,52 @@
+.storiesContainer {
+    background-color: #ffffff;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.newsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5% 10% 10% 10%;
+       
+}
+
+.news:nth-child(1) {
+    margin: 0 0 2rem 0;
+}
+
+.news:nth-child(2) {
+    margin: 0 0 2rem 0;
+}
+
+.news--title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold; 
+    padding: 1rem 0 0 0;
+}
+
+/* 13px o regular body text */
+.news--paragraph {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: bold; 
+    padding: 0.5rem 1rem 0 1rem;
+}
+
+.news--img {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
