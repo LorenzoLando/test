@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-@import "partials/layout.css";
+@import "partials/normalize.css";
+@import "partials/general.css";
+@import "partials/main--title.css";
+@import "partials/main-container.css";
+@import "partials/storiesContainer.css";
 @import "partials/news.css";
-@import "partials/rankings.css";
+@import "partials/rankingsContainer.css";
+@import "partials/content-table.css";
 
 
 

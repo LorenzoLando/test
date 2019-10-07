@@ -1,0 +1,7 @@
+.storiesContainer {
+    background-color:white;
+    margin-bottom: 5%;
+    text-align: center;
+    flex-basis: 0;
+    flex-grow: 1;
+}
