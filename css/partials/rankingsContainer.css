@@ -5,3 +5,15 @@
     display: flex;
     flex-direction: column;
 }
+
+
+@media only screen and (min-width:480px) {
+    .rankingsContainer {
+        margin: 0 0 2% 0; 
+    }
+}
+
+
+
+
+

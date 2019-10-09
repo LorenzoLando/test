@@ -6,3 +6,13 @@
     flex-basis: 0;
     flex-grow: 1;
 }
+
+@media only screen and (min-width:480px) {
+    .newsContainer {
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        flex-basis: 0;
+        flex-grow: 1;
+    }
+}
