@@ -1,17 +1,16 @@
 .storiesContainer {
-    background-color:white;
-    margin-bottom: 5%;
-    text-align: center;
-    flex-basis: 0;
+    background-color: white;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1%;
+}
+
+.storiesContainer > div {
     flex-grow: 1;
 }
 
-@media only screen and (min-width:480px) {
-    .storiesContainer {
-        max-height: 40%;
-        margin: 0 0 2% 0;
-        display: flex;
-        flex-direction: column;
-       
-    }
+
+.storiesContainer h1 {
+    padding-left: 2em;
 }

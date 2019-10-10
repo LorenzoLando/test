@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 @import "partials/normalize.css";
 @import "partials/general.css";
-@import "partials/main--title.css";
 @import "partials/main-container.css";
 @import "partials/storiesContainer.css";
 @import "partials/newsContainer.css";
